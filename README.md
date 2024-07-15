@@ -27,7 +27,7 @@ pip install -r requirements.txt
 ```
 Run the inference of the model，
 ```
-python deo.py
+python demo.py
 ```
 ```
 pip install accelerate
